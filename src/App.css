@@ -89,7 +89,7 @@ input[type="number"] {
 
 .btn {
   cursor: pointer;
-  background-color: #9c88ff;
+  background-color: #4d3f93;
   box-shadow: var(--box-shadow);
   color: #fff;
   border: 0;
@@ -99,7 +99,9 @@ input[type="number"] {
   padding: 10px;
   width: 100%;
 }
-
+.btn {
+  font-weight: 600;
+}
 .btn:focus,
 .delete-btn:focus {
   outline: 0;
